@@ -13,5 +13,4 @@ This script will allow to download all different screens available on the [IDR w
 `cd src`
 
 *4-step* Download Idr dataset \
-
 `python idr_download.py --path=<path to download dataset> --idrId=<Idr dataset to download>`
